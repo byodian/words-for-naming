@@ -1,7 +1,5 @@
 # words-for-naming
-HTM class 命名收集
-
-JavaScript 函数名、变量和类等标识符命名收集
+HTM class、JavaScript 函数名、变量和类等标识符命名收集
 
 ## noun.
 - paragraph
@@ -42,22 +40,3 @@ JavaScript 函数名、变量和类等标识符命名收集
 - social
 - footer-legal
 - footer-license
-- 
-
-Markdown | Less | Pretty
---- | --- | ---
-*still* | `renders` | **nicely**
-1 | 2 | 3
-
-## verb.
-| Name  | type |
-|-------|-------|
-| structure | 结构化 |
-
-
-## adj.
-
-## adv.
-
-## styleguide
-
